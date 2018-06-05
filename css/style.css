@@ -1,6 +1,6 @@
 ﻿body {
   background-color: #005063;
-  background-image: url("img/blue-abstract-background.jpg");
+  background-image: url("img/blue-abstract-background-smaller.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0% 10%;
@@ -12,12 +12,12 @@
 }
 
 .jumbotron{
-  margin-top: 5%;
   background-color: rgba(255,255,255,0.4);
 }
 
 #main-card{
     width: 70%;
+    margin-top: 5%;
     margin-bottom: 2%;
 }
 
