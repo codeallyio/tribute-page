@@ -12,7 +12,7 @@
 }
 
 .jumbotron{
-  background-color: rgba(255,255,255,0.4);
+  background-color: rgba(255,255,255,0.4) !important;
 }
 
 #main-card{
@@ -21,9 +21,12 @@
     margin-bottom: 2%;
 }
 
+.card{
+    background-color: rgba(255,255,255,0.4) !important;
+}
+
 .flex-item{
   self-align: center;
-  background-color: rgba(255,255,255,0.4);
 }
 
 .flex-container{
